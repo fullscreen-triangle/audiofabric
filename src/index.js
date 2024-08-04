@@ -65,27 +65,27 @@ const tracks = [
   {
     title: "Chubrub",
     artist: "Ed Rush & Optical ",
-    path: "src/audio/Chubrub.mp3",
+    path: "/audio/Chubrub.mp3",
   },
   {
     title: "Watch The Beat",
     artist: "Mob Tactics",
-    path: "src/audio/mobtactics_watchthebeat.mp3",
+    path: "/audio/mobtactics_watchthebeat.mp3",
   },
   {
     title: "Germ(Remix)",
     artist: "Gridlock (Misanthrop)",
-    path: "src/audio/Germ_MisanthropRemix.mp3",
+    path: "/audio/Germ_MisanthropRemix.mp3",
   },
   {
     title: "FARCE",
     artist: "Phace",
-    path: "src/audio/PHACE_FARCE.mp3",
+    path: "/audio/PHACE_FARCE.mp3",
   },
   {
     title: "Omega",
     artist: "Audio",
-    path: "src/audio/Audio_Omega.mp3",
+    path: "/audio/Audio_Omega.mp3",
   },
 ];
 
